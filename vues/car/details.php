@@ -1,0 +1,2 @@
+<h1>Details</h1>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti ut earum itaque ipsum voluptas! Perferendis atque sapiente dolor unde? Praesentium voluptas blanditiis dignissimos sit ad maiores autem modi doloremque voluptate.</p>

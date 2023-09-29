@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.nav_blog{
+    display:flex;
+    gap: 30%;
+    background-color: rgb(121, 121, 192);
+}
+.nav_link{
+  display: flex;
+  gap: 150px; 
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+    width: 10%;
+    
+}
